@@ -1,0 +1,14 @@
+{
+  "name": "71-metadata-reflect-metadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Chakhalian",
+  "license": "ISC",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  }
+}

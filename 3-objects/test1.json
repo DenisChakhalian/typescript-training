@@ -1,0 +1,11 @@
+{
+  "officeId": 66,
+  "isOpened" : false,
+  "contacts": {
+    "phone": "+380506666666",
+    "email": "my.chahalyan@gmail.com",
+    "address": {
+      "city": "Kharkov"
+    }
+  }
+}
